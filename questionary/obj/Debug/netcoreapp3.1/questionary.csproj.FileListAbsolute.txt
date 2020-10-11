@@ -1,0 +1,13 @@
+C:\Users\Валерия Пинигина\source\repos\questionary\bin\Debug\netcoreapp3.1\questionary.exe
+C:\Users\Валерия Пинигина\source\repos\questionary\bin\Debug\netcoreapp3.1\questionary.deps.json
+C:\Users\Валерия Пинигина\source\repos\questionary\bin\Debug\netcoreapp3.1\questionary.runtimeconfig.json
+C:\Users\Валерия Пинигина\source\repos\questionary\bin\Debug\netcoreapp3.1\questionary.runtimeconfig.dev.json
+C:\Users\Валерия Пинигина\source\repos\questionary\bin\Debug\netcoreapp3.1\questionary.dll
+C:\Users\Валерия Пинигина\source\repos\questionary\bin\Debug\netcoreapp3.1\questionary.pdb
+C:\Users\Валерия Пинигина\source\repos\questionary\obj\Debug\netcoreapp3.1\questionary.csprojAssemblyReference.cache
+C:\Users\Валерия Пинигина\source\repos\questionary\obj\Debug\netcoreapp3.1\questionary.AssemblyInfoInputs.cache
+C:\Users\Валерия Пинигина\source\repos\questionary\obj\Debug\netcoreapp3.1\questionary.AssemblyInfo.cs
+C:\Users\Валерия Пинигина\source\repos\questionary\obj\Debug\netcoreapp3.1\questionary.csproj.CoreCompileInputs.cache
+C:\Users\Валерия Пинигина\source\repos\questionary\obj\Debug\netcoreapp3.1\questionary.dll
+C:\Users\Валерия Пинигина\source\repos\questionary\obj\Debug\netcoreapp3.1\questionary.pdb
+C:\Users\Валерия Пинигина\source\repos\questionary\obj\Debug\netcoreapp3.1\questionary.genruntimeconfig.cache
